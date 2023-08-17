@@ -2,7 +2,7 @@ const URL = require('url').URL;
 const axios = require('axios');
 
 let callId = 0;
-const targetUrl = "https://www.google.com";
+const targetUrl = "LINK";
 
 const start = async () => {
   setInterval(() => {
